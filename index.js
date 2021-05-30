@@ -3073,6 +3073,8 @@ const deser = `
 
 ▬▭▬❰ *MAKER MENU* ❱▬▭▬
 │=❏ ${prefix}sticker
+│=❏ ${prefix}swm
+│=❏ ${prefix}takestick
 │=❏ ${prefix}textsky
 │=❏ ${prefix}silktext
 │=❏ ${prefix}epepserti
@@ -3088,6 +3090,8 @@ const deser = `
 │=❏ ${prefix}nightbeach
 │=❏ ${prefix}smoke
 │=❏ ${prefix}galaxytext
+│=❏ ${prefix}thundertext
+│=❏ ${prefix}textlight
 │=❏ ${prefix}grafity
 │=❏ ${prefix}logogaming
 │=❏ ${prefix}wanted
@@ -3158,6 +3162,7 @@ const deser = `
 │=❏ ${prefix}pinterest
 │=❏ ${prefix}resepmasakan
 │=❏ ${prefix}igstalk
+│=❏ ${prefix}igdown
 │=❏ ${prefix}bitly
 │=❏ ${prefix}tiktokstalk
 │=❏ ${prefix}ssweb
@@ -3265,6 +3270,7 @@ const deser = `
 │=❏ ${prefix}toimg
 │=❏ ${prefix}img2url
 │=❏ ${prefix}translate
+│=❏ ${prefix}upswtext
 ╰▬▭▬▭▬▭▬▭▬▭▬▭▬
  
 ▬▭▬❰ *STORAGE* ❱▬▭▬
