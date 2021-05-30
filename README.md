@@ -10,8 +10,9 @@
   
 </div>
 
+
 ## Cara Ganti ApiKey Gimana?    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px">
-Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
+Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax <a href="https://github.com/Keito-Klein/WiBot/blob/d005ff7af18498599a8c34b9a16e2eb41f762e70/index.js#L47" text-decoration="none">Di Bawah Ini</a>
 ```js
 const apivhtear = 'Your_Apikey'
 const zeksapi = 'Your_Apikey'
@@ -22,18 +23,18 @@ const TechApi = 'Your_Apikey'
 ```
 
 ## Cara Ganti Nama & Nomer Owner   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"  width="30px">
-Caranya cukup ganti yang di bawah ini
+Caranya cukup ganti yang <a href="https://github.com/Keito-Klein/WiBot/blob/d005ff7af18498599a8c34b9a16e2eb41f762e70/index.js#L56">di bawah ini</a>
 ```js
 const vcard = 'BEGIN:VCARD\n' // INI JANGAN DI UBAH, BIARIN GINI
             + 'VERSION:3.0\n'  // INI JUGA
             + 'FN:MiKako\n'  // Ganti jadi namamu
-            + 'ORG: Pengembang Fico-Shop;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=6285864236900:+62 858-6423-6900\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'ORG: Pengembang Taufik-Kun;\n'  // Ganti jadi namamu/Botmu
+            + 'TEL;type=CELL;type=VOICE;waid=6289675651966:+62 896-7565-1966\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 ```
-Sōshite
+<a href="https://github.com/Keito-Klein/WiBot/blob/d005ff7af18498599a8c34b9a16e2eb41f762e70/index.js#L79">Sōshite</a>
 ```js
-const ownerNumber = ["6285864236900@s.whatsapp.net","6285864236900@s.whatsapp.net"]  //ganti jadi nomormu
+const ownerNumber = ["6289675651966@s.whatsapp.net","6281231958474@s.whatsapp.net"]  //ganti jadi nomormu
 ```
 BTW TEMPATNYA DI index.js YA NGEOD
 
@@ -59,4 +60,10 @@ NOTE : WA yang di pakai scan code = jadi BOT
   </details>
     </div>
   <br>
+  
+ <div align="center">
+        <h1>Contact Me On:</h1>
+        <br>
+        | <a href="https://www.instagram.com/gamerz_garena/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="30"></a> | <a href="https://www.facebook.com/taufik.qillah.73"><img src="https://user-images.githubusercontent.com/77515527/111603419-ebab8580-8806-11eb-9e32-7ff359641d32.png" alt="facebook logo" width="30"></a> | <a href="https://wa.wizard.id/2fd29f"><img src="https://user-images.githubusercontent.com/77515527/111604893-60cb8a80-8808-11eb-8402-4318318c5aa2.jpg" alt="whatsapp logo" width="30"></a> | 
+</div>
   
