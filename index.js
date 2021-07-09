@@ -55,19 +55,19 @@ const TechApi = 'B8r68c-6gwmq1-af4vtS-if1zgD-jni01B'
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:MiKako\n' 
-            + 'ORG: Pengembang Taufik-Kun;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6289675651966:+62 896-7565-1966\n' 
+            + 'FN:Kai ganz\n' 
+            + 'ORG: Kai Ganz;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6288231913055:+62 882-3191-3055\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '$'
+prefix = '#'
 limitawal = 100
 memberlimit = 0
 public = true
 numer = '0'
-ator = 'Mikako'
-namo = 'WiBot'
-fake = 'Hayyoo Lho'
+ator = 'Kai Ganz'
+namo = 'Kai Bot'
+fake = 'Hayyoo Lho Kaget'
 cr = '*Dhlah Males✅*'
 gjls = fs.readFileSync('./storage/thumb/admin.webp')
 oner = fs.readFileSync('./storage/thumb/bocil.webp')
@@ -76,7 +76,7 @@ fcapt = 'Banishment This World!!!'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6289675651966@s.whatsapp.net","6281231958474@s.whatsapp.net"] 
+const ownerNumber = ["6288231913055@s.whatsapp.net","6281231958474@s.whatsapp.net"] 
 /************************************/
 
        
